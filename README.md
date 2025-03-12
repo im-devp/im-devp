@@ -24,14 +24,14 @@ Check out my [discord](https://discord.com/users/1025056188125151336)! ‎ ‎ �
   Follow me for some weird random stuff! [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DPIPIPIG233666&longCache=true)](https://github.com/im-devp)
 - 🔭 [![LineageOS](https://img.shields.io/badge/LineageOS-167b80?style=flat-square&logo=lineageos)](https://github.com/LineageOS) 
 
-- 🖥️/💻 [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com) [![OS:Gentoo](https://img.shields.io/badge/OS-Gentoo-cyan?style=flat-square&logo=Gentoo)]() [![OS:Hackintosh](https://img.shields.io/badge/OS-Sonoma-purple?style=flat-square&logo=Apple)]() [![OS:Android14](https://img.shields.io/badge/OS-Android14-green?style=flat-square&logo=android)](https://www.android.com/)
+- 🖥️/💻 [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com) [![OS:Android14](https://img.shields.io/badge/OS-Android14-green?style=flat-square&logo=android)](https://www.android.com/)
 
 - 🌱 Currently learning Computer Science & Machine Learning in college
 - ⛳ Inactively learning Python/Kotlin whenever needed
 - 🤔 Looking for help with life
 - 🖥️ Mastered Front End Website Development
 - 💬 Also learning how to brick your device `{software,hardware}`-wise
-- 📫 Reach me at: ![Email)](https://github.com/user-attachments/assets/f3bde3c7-d326-466f-8dfc-57dccd1e5aa1)
+- 📫 Reach me at: ![Email)](https://github.com/user-attachments/assets/f3bde3c7-d326-466f-8dfc-57dccd1e5aa1 = 30x200)
 
 </td>
 <td>
