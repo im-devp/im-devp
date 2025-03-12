@@ -31,7 +31,7 @@ Check out my [discord](https://discord.com/users/1025056188125151336)! ‎ ‎ �
 - 🤔 Looking for help with life
 - 🖥️ Mastered Front End Website Development
 - 💬 Also learning how to brick your device `{software,hardware}`-wise
-- 📫 Reach me at: ![Email)](https://github.com/user-attachments/assets/f3bde3c7-d326-466f-8dfc-57dccd1e5aa1 = 30x200)
+![Email)](https://github.com/user-attachments/assets/f3bde3c7-d326-466f-8dfc-57dccd1e5aa1)
 
 </td>
 <td>
