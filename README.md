@@ -31,7 +31,10 @@ Check out my [discord](https://discord.com/users/1025056188125151336)! ‎ ‎ �
 - 🤔 Looking for help with life
 - 🖥️ Mastered Front End Website Development
 - 💬 Also learning how to brick your device `{software,hardware}`-wise
-![New Project (42)](https://github.com/user-attachments/assets/766a4163-95c7-48f8-9eba-56d7f1ebceb0)
+  
+
+![New Project (43)](https://github.com/user-attachments/assets/cb823e12-ecfe-4352-af62-f14305053881) 
+
 
 
 </td>
@@ -41,4 +44,3 @@ Check out my [discord](https://discord.com/users/1025056188125151336)! ‎ ‎ �
 </td>
 </tr>
 </table>
-
