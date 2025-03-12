@@ -33,7 +33,8 @@ Check out my [discord](https://discord.com/users/1025056188125151336)! ‎ ‎ �
 - 💬 Also learning how to brick your device `{software,hardware}`-wise
   
 
-![New Project (43)](https://github.com/user-attachments/assets/cb823e12-ecfe-4352-af62-f14305053881) 
+
+![New Project (43)](https://github.com/user-attachments/assets/cb823e12-ecfe-4352-af62-f14305053881)  ![New Project (44)](https://github.com/user-attachments/assets/899cb32e-dd86-4516-9ea9-16d68cdd2980)
 
 
 
