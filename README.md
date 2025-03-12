@@ -21,7 +21,7 @@ Check out my [discord](https://discord.com/users/1025056188125151336)! ‎ ‎ �
 <tr>
 <td>
 
-  Follow me for some weird random stuff! [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DPIPIPIG233666&longCache=true)](https://github.com/im-devp)
+  Follow me for some weird random stuff! [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dim-devp&longCache=true)](https://github.com/im-devp)
 - 🔭 [![LineageOS](https://img.shields.io/badge/LineageOS-167b80?style=flat-square&logo=lineageos)](https://github.com/LineageOS) 
 
 - 🖥️/💻 [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com) [![OS:Android14](https://img.shields.io/badge/OS-Android14-green?style=flat-square&logo=android)](https://www.android.com/)
@@ -31,7 +31,7 @@ Check out my [discord](https://discord.com/users/1025056188125151336)! ‎ ‎ �
 - 🤔 Looking for help with life
 - 🖥️ Mastered Front End Website Development
 - 💬 Also learning how to brick your device `{software,hardware}`-wise
-![Email)](https://github.com/user-attachments/assets/d0d7c865-b681-4da7-8e60-c25ae9d83a89)
+![New Project (42)](https://github.com/user-attachments/assets/766a4163-95c7-48f8-9eba-56d7f1ebceb0)
 
 
 </td>
@@ -41,3 +41,4 @@ Check out my [discord](https://discord.com/users/1025056188125151336)! ‎ ‎ �
 </td>
 </tr>
 </table>
+
