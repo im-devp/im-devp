@@ -4,12 +4,12 @@
 </tr>
 <tr>
 <td>
-
+I play Minecraft and type random things on my keyboard.
 Check out my [discord](https://discord.com/users/1025056188125151336)! ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
 </td>
 <td>
 
-  [![PIPIPIG233666 github stats](https://github-readme-stats.vercel.app/api?username=PIPIPIG233666&hide=issues&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/PIPIPIG233666)
+  [![im-devp github stats](https://github-readme-stats.vercel.app/api?username=im-devp&hide=issues&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/im-devp)
 
 </td>
 </tr>
