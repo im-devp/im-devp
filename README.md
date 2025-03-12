@@ -1,11 +1,11 @@
-![image](https://github.com/user-attachments/assets/b774e7af-54fd-4851-9c05-4d386ad49fa0)### Hi there, this is DeveloperP
+### Hi there, this is DeveloperP
 <table>
 <tr>
 </tr>
 <tr>
 <td>
 
-Check out my [discord](https://discord.com/users/1025056188125151336)! (spaceholder)
+Check out my [discord](https://discord.com/users/1025056188125151336)! 
 </td>
 <td>
 
@@ -24,8 +24,7 @@ Check out my [discord](https://discord.com/users/1025056188125151336)! (spacehol
   Follow me for some weird random stuff! [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DPIPIPIG233666&longCache=true)](https://github.com/PIPIPIG233666)
 - 🔭 [![LineageOS](https://img.shields.io/badge/LineageOS-167b80?style=flat-square&logo=lineageos)](https://github.com/LineageOS) 
 
-- 🖥️/💻 [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com) [![OS:Gentoo](https://img.shields.io/badge/OS-Gentoo-cyan?style=flat-square&logo=Gentoo)]() [![OS:Hackintosh](https://img.shields.io/badge/OS-Sonoma-purple?style=flat-square&logo=Apple)]() [![OS:Android14](https://img.shields.io/badge/OS-Android14-green?style=flat-square&logo=android)](https://www.android.com/)
-- 🧑‍💻 [![EDITOR:SpaceVim](https://img.shields.io/badge/Editor-Vim-blueviolet?style=flat-square&logo=vim)](https://www.vim.org/)
+- 🖥️/💻 [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com) [![OS:Android14](https://img.shields.io/badge/OS-Android14-green?style=flat-square&logo=android)](https://www.android.com/)
 
 - 🌱 Currently learning Computer Science & Machine Learning in college
 - ⛳ Inactively learning Python/Kotlin whenever needed
