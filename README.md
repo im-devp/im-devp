@@ -1,11 +1,11 @@
-![image](https://github.com/user-attachments/assets/b774e7af-54fd-4851-9c05-4d386ad49fa0)### Hi there, this is DeveloperP
+### Hi there, this is DeveloperP
 <table>
 <tr>
 </tr>
 <tr>
 <td>
 
-Check out my [discord](https://discord.com/users/1025056188125151336)! ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+Check out my [discord](https://discord.com/users/1025056188125151336)! ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 </td>
 <td>
 
