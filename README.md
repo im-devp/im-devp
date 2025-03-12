@@ -1,7 +1,7 @@
 - 👋 Hi, I’m DeveloperP
 I primarily focus on Minecraft and a few other games.
 
-- 👀 FrontEnd website Developer & Learning Backend.
+👀 FrontEnd website Developer & Learning Backend.
 
 
 <!---
